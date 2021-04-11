@@ -4,3 +4,4 @@ This line is created by Newbranch - Git hub commit
 This is another line by Newbranch - Git hub commit
 This is new line from local commit
 Branch2 code is now added to Git
+Branch2 code is again added to Git
